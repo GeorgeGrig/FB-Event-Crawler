@@ -17,4 +17,4 @@ imdbpy ---> https://imdbpy.sourceforge.io/
 script and give access to your developer account.
 
 ## Also...
-I won't probably maintain this at all
+I probably won't maintain this at all
