@@ -1,4 +1,4 @@
-# Event-Crawler (Python)
+# FB-Event-Crawler
 Grabs movie info from a Facebook event using imdbpy
 Not using facebook API because the restrictions added after the cambridge analytic thingy made it much harder to get access to various API functionality
 
