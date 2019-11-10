@@ -8,7 +8,7 @@ In order to run the script you need to have the following:
 ```
 gspread ---> https://github.com/burnash/gspread/
 oauth2client
-selenium (A windows 64bit version of gecko driver is already provided in the package)
+selenium (and a version of geckodriver.exe in the directory)
 imdbpy ---> https://imdbpy.sourceforge.io/
 ```
 ## Getting started
