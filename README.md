@@ -1,5 +1,5 @@
 # FB-Event-Crawler
-Grabs movie info from a Facebook event using imdbpy.
+Grabs movie info from a Facebook event (from a given list of Fb pages) using imdbpy.
 
 Facebook API is not used because the restrictions added after the cambridge analytica scandal made it much harder to get access to various API functions
 
